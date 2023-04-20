@@ -4,26 +4,15 @@ I'm a third-year Computer Science major at New York University, passionate about
 
 ## 🎓 About Me
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>🔭 I'm currently studying at <b>New York University</b>, majoring in <b>Computer Science</b></li>
-        <li>🌱 I'm a <b>React, Vue</b> enthusiast, leveling up my frontend skills</li>
-        <li>👯 I'm looking to collaborate on <b>open-source projects or web app development</b></li>
-        <li>🎨 I'm passionate about <b>UI/UX design</b> and making applications visually appealing and user-friendly</li>
-        <li>📫 How to reach me: <b><a href="mailto:alex.yan@nyu.edu">Email</a></b>, <b><a href="https://www.linkedin.com/in/alexyuyan/">LinkedIn</a></b></li>
-      </ul>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alex-YuYan&show_icons=true&theme=tokyonight&count_private=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+- 🔭 I'm currently studying at **New York University**, majoring in **Computer Science**
+- 🌱 I'm a **React, Vue** enthusiast, leveling up my frontend skills
+- 👯 I'm looking to collaborate on **open-source projects or web app development**
+- 🎨 I'm passionate about **UI/UX design** and making applications visually appealing and user-friendly
+- 📫 How to reach me: **[Email](mailto:alex.yan@nyu.edu)**, **[LinkedIn](https://www.linkedin.com/in/alexyuyan/)**
 
-## Languages and Tools
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-YuYan&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+**Languages and Tools:** 
 
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?logo=springboot&style=social)&nbsp;&nbsp;
