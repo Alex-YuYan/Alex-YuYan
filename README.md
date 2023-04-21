@@ -8,7 +8,7 @@ I'm a third-year Computer Science major at New York University, passionate about
 - 🌱 I'm a **React, Vue** enthusiast, leveling up my frontend skills
 - 👯 I'm looking to collaborate on **open-source projects or web app development**
 - 🎨 I'm passionate about **UI/UX design** and making applications visually appealing and user-friendly
-- 📫 How to reach me: **[Email](mailto:alex.yan@nyu.edu)**, **[LinkedIn](https://www.linkedin.com/in/alexyuyan/)**
+- 📫 How to reach me: **[My Website](http://alexyan.me)**, **[Email](mailto:alex.yan@nyu.edu)**, **[LinkedIn](https://www.linkedin.com/in/alexyuyan/)**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-YuYan&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
