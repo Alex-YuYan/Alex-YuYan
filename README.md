@@ -5,7 +5,7 @@ I'm a third-year Computer Science major at New York University, passionate about
 ## 🎓 About Me
 
 - 🔭 I'm currently studying at **New York University**, majoring in **Computer Science**
-- 🌱 I'm a **React, Vue** enthusiast, leveling up my frontend skills
+- 🌱 I'm a **React** enthusiast, leveling up my frontend skills
 - 👯 I'm looking to collaborate on **open-source projects or web app development**
 - 🎨 I'm passionate about **UI/UX design** and making applications visually appealing and user-friendly
 - 📫 How to reach me: **[My Website](http://alexyan.me)**, **[Email](mailto:alex.yan@nyu.edu)**, **[LinkedIn](https://www.linkedin.com/in/alexyuyan/)**
@@ -20,7 +20,6 @@ I'm a third-year Computer Science major at New York University, passionate about
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-black?logo=tailwindcss&style=social)&nbsp;&nbsp;
 <br></br>
 ![Vite](https://img.shields.io/badge/-Vite-black?logo=vite&style=social)&nbsp;&nbsp;
-![Vue](https://img.shields.io/badge/-Vue.js-black?logo=vue.js&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
