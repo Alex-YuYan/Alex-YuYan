@@ -1,26 +1,16 @@
-# Hi there, I'm Alex Yan! 👋
-
-I'm a third-year Computer Science major at New York University, passionate about full-stack development, with a strong focus on frontend technologies. I love to explore and learn new languages, frameworks, and libraries to stay ahead of the curve and build amazing, innovative web applications.
-
-## 🎓 About Me
-
-- 🔭 I'm currently studying at **New York University**, majoring in **Computer Science**
-- 👯 I'm looking to collaborate on **open-source projects or web app development**
-- 📫 How to reach me: **[My Website](http://alexyan.me)**, **[Email](mailto:alex.yan@nyu.edu)**, **[LinkedIn](https://www.linkedin.com/in/alexyuyan/)**
+- Currently studying at **New York University**, majoring in **Computer Science**
+- Looking to collaborate on **open-source projects or web app development**
+- Reach me: **[My Website](http://alexyan.me)**, **[Email](mailto:alex.yan@nyu.edu)**, **[LinkedIn](https://www.linkedin.com/in/alexyuyan/)**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-YuYan&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **Languages and Tools:** 
 
-![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?logo=springboot&style=social)&nbsp;&nbsp;
-![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-black?logo=tailwindcss&style=social)&nbsp;&nbsp;
-<br></br>
-![Vite](https://img.shields.io/badge/-Vite-black?logo=vite&style=social)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-<br></br>
-![Notion](https://img.shields.io/badge/-Notion-black?logo=notion&style=social)&nbsp;&nbsp;
-![Obsidian](https://img.shields.io/badge/-Obsidian-black?logo=obsidian&style=social)&nbsp;&nbsp;
+![react](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&fill=7ed0ef)
+![JS](https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&animation=spin&fill=ebd94d)
+![tailwind](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&text=false&animation=spin&fill=5fb3eb)
+<br/>
+![java](https://readme-components.vercel.app/api?component=logo&logo=java&text=false&animation=spin&fill=d23830)
+![spring](https://readme-components.vercel.app/api?component=logo&logo=spring&text=false&animation=spin&fill=7db150)
+![go](https://readme-components.vercel.app/api?component=logo&logo=go&text=false&animation=spin&fill=85c6d4)
+
