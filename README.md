@@ -18,5 +18,5 @@
 
 <h1>Experiences</h1>
 
-[![Baidu](https://readme-components.vercel.app/api?component=experience&company=baidu&role=Software%20Developer%20Intern)](https://github.com/harish-sethuraman/readme-components)
-[![NYU](https://readme-components.vercel.app/api?component=experience&company=NYU&role=Machine%20Learning%20Research%20Intern)](https://github.com/harish-sethuraman/readme-components)
+[![Baidu](https://readme-components.vercel.app/api?component=experience&company=baidu&role=Software%20Developer%20Intern)]()
+[![ZGDX](https://readme-components.vercel.app/api?component=experience&company=chinatelecom&role=Software%20Developer%20Intern)]()
