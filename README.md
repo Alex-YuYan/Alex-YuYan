@@ -33,8 +33,3 @@
 ![pycharm](https://readme-components.vercel.app/api?component=logo&logo=pycharm&text=false&animation=spin&fill=63cd8d)
 ![vim](https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=63cd8d)
 
-
-<h1>Experiences</h1>
-
-[![Baidu](https://readme-components.vercel.app/api?component=experience&company=baidu&role=Software%20Developer%20Intern&fill=000000)]()
-[![ZGDX](https://readme-components.vercel.app/api?component=experience&company=chinatelecom&role=Software%20Developer%20Intern&fill=000000)]()
