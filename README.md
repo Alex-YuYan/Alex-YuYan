@@ -1,8 +1,8 @@
 <h1>About Me</h1>
 
-- Currently studying at **New York University**, majoring in **Computer Science**
-- Looking to collaborate on **open-source projects or web app development**
-- Reach me: **[My Website](http://alexyan.me)**, **[Email](mailto:alex.yan@nyu.edu)**, **[LinkedIn](https://www.linkedin.com/in/alexyuyan/)**
+- Currently studying at **Yale University**, majoring in **Computer Science**
+- Actively looking for full time softweare development roles (full-stack, backend, frontend)
+- Reach me: **[My Website](http://alexyan.me)**, **[Email](mailto:alex.yuyan@outlook.com)**, **[LinkedIn](https://www.linkedin.com/in/alexyuyan/)**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-YuYan&show_icons=true&count_private=true?hide=issues,contribs&bg_color=ffffff&text_color=000000&icon_color=000000&title_color=db2e59&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
