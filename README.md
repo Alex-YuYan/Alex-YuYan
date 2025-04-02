@@ -27,9 +27,3 @@
 ![markdown](https://readme-components.vercel.app/api?component=logo&logo=markdown&text=false&animation=spin&fill=000000)
 ![git](https://readme-components.vercel.app/api?component=logo&logo=git&text=false&animation=spin&fill=000000)
 ![linux](https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=000000)
-<br />
-![vscode](https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&text=false&animation=spin&fill=5cbca6)
-![idea](https://readme-components.vercel.app/api?component=logo&logo=intellijidea&text=false&animation=spin&fill=ea3f6d)
-![pycharm](https://readme-components.vercel.app/api?component=logo&logo=pycharm&text=false&animation=spin&fill=63cd8d)
-![vim](https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=63cd8d)
-
